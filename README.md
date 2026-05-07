@@ -12,12 +12,6 @@ where I am today and where I am heading.
 I am a Software Test Engineer with **5 years of experience** across multiple domains and industries,
 including **2 years hands-on in test automation**.
 
-My background spans finance, telecommunications, and IT service management — giving me a broad
-understanding of how quality fits into different business contexts.
-
-I am currently based in **New Zealand**, actively looking for new opportunities, and
-continuously upskilling to stay relevant in a fast-moving industry.
-
 ---
 
 ## 🛠️ Key Skills
@@ -44,7 +38,7 @@ continuously upskilling to stay relevant in a fast-moving industry.
 
 ---
 
-## 📂 What You Will Find Here
+## 📂Self-Directed Learning & Upskilling -  What You Will Find Here
 
 | | Artefact | Description |
 |--|---------|-------------|
@@ -56,7 +50,7 @@ continuously upskilling to stay relevant in a fast-moving industry.
 
 ---
 
-## 🔗 Frameworks
+## 🔗 Frameworks Details
 
 ### ☕ Framework 1 — Java · RestAssured · Cucumber · Maven
 > BDD-style API test automation framework built to demonstrate real-world testing patterns.
@@ -77,26 +71,6 @@ continuously upskilling to stay relevant in a fast-moving industry.
 
 **Stack:** JavaScript · Playwright · Node.js  
 **Status:** 🔄 In progress
-
----
-
-## 📄 Test Artefacts
-
-| Artefact | Description | Link |
-|---------|-------------|------|
-| Test Plan — ShopEasy | Full test plan covering scope, strategy, risk and sign-off | [View](./test-plans/) |
-| Test Cases — Login Module | Functional, boundary and negative test cases | [View](./test-cases/) |
-| Bug Reports | Sample defect reports with steps, severity and impact | [View](./bug-reports/) |
-
----
-
-## 🌱 Self-Directed Learning & Upskilling
-
-| What | Why |
-|------|-----|
-| Java · RestAssured · Cucumber · Maven | Deepen API automation skills beyond Karate |
-| Playwright · JavaScript | Add modern UI automation to my toolkit |
-| AI in Testing | Understand how AI tools are changing QA workflows |
 
 ---
 
