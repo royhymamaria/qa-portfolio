@@ -1,7 +1,6 @@
 # QA Portfolio — Software Test Engineer
 
-> A humble effort to showcase the skills gained from **5 years of experience** in software testing —
-> and to critically self-analyse and grow as a continuous learner.
+> A humble effort to showcase the skills gained from **5 years of experience** in software testing , and to critically self-analyse and grow as a continuous learner.
 
 I am not claiming to be an expert. This is an honest, growing portfolio that reflects
 where I am today and where I am heading.
