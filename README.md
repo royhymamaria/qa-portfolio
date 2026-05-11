@@ -38,18 +38,6 @@ including **2 years hands-on in test automation**.
 
 ---
 
-## 📂Self-Directed Learning & Upskilling -  What You Will Find Here
-
-| | Artefact | Description |
-|--|---------|-------------|
-| 📄 | **Test Plans** | Written to industry standards — scope, strategy, risk, entry/exit criteria and sign-off |
-| ✅ | **Test Cases** | Functional, boundary and negative test cases across different modules |
-| 📊 | **Test Reports** | Execution results and defect summaries |
-| ☕ | **Framework 1 — Java · RestAssured · Cucumber** | BDD API automation framework built from scratch |
-| 🎭 | **Framework 2 — Playwright · JavaScript** | UI automation framework — work in progress as I learn |
-
----
-
 ## 🔗 Frameworks Details
 
 ### ☕ Framework 1 — Java · RestAssured · Cucumber · Maven
@@ -67,10 +55,9 @@ including **2 years hands-on in test automation**.
 > UI end-to-end test automation — hands-on learning project using Playwright with
 > Page Object Model pattern and web-first assertions.
 
-🔗 *(coming soon)*
 
 **Stack:** JavaScript · Playwright · Node.js  
-**Status:** 🔄 In progress
+**Status:** 🔄** In progress...**
 
 ---
 
@@ -89,7 +76,7 @@ After 5 years working in software testing, I wanted a space to:
 
 I am open to **QA roles in New Zealand** — permanent, contract, or remote.
 
-🔗 [LinkedIn](#) · 📧 [Email](#) · 🐙 [GitHub](https://github.com/royhymamaria)
+🔗 [LinkedIn](https://www.linkedin.com/in/mariaroy-testing) · 📧 [Email](✉️  royhymamaria@gmail.com) · [GitHub](https://github.com/royhymamaria)
 
 ---
 
