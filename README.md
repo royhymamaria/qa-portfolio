@@ -76,7 +76,7 @@ After 5 years working in software testing, I wanted a space to:
 
 I am open to **QA roles in New Zealand** — permanent, contract, or remote.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mariaroy-testing) · 📧 [Email](royhymamaria@gmail.com) · [GitHub](https://github.com/royhymamaria)
+🔗 [LinkedIn](https://www.linkedin.com/in/mariaroy-testing) · 📧 [Email]( royhymamaria@gmail.com) · [GitHub](https://github.com/royhymamaria)
 
 ---
 
