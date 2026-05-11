@@ -55,6 +55,7 @@ including **2 years hands-on in test automation**.
 > UI end-to-end test automation — hands-on learning project using Playwright with
 > Page Object Model pattern and web-first assertions.
 
+🔗 [PlaywrightJavaScriptAutomationFramework](https://github.com/royhymamaria/PlaywrightJavaScriptAutomationFramework)
 
 **Stack:** JavaScript · Playwright · Node.js  
 **Status:** 🔄In progress...
